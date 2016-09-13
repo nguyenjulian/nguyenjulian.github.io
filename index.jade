@@ -1,0 +1,33 @@
+doctype html
+
+html
+  head
+    title Julian Nguyen
+    
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible' content='IE-edge')
+    meta(name='viewport' content='initial-scale=1')
+    
+    link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css')
+    link(type='text/css' rel='stylesheet' href='css/style.css')
+    link(href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css')
+  
+  body
+    #hero 
+      #name Julian Nguyen
+      #info Designer, Developer, Student
+    
+    .content  
+      #menu
+        img#logo(src='img/logo.png')
+        ul#menuBar
+          each item in ['Home', 'About', 'Portfolio', 'Skills', 'Contact']
+            a#menuItems(href='#')=item
+    
+      .placeholder 
+        .box One
+        .box Two
+        .box Three
+        .box Four
+      
+  
