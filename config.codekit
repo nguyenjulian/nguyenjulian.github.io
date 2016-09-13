@@ -1330,6 +1330,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/stock1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.57944e+06,
+		"inputAbbreviatedPath": "\/img\/stock1.jpg",
+		"outputAbbreviatedPath": "\/img\/stock1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/stock2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90300,
+		"inputAbbreviatedPath": "\/img\/stock2.jpg",
+		"outputAbbreviatedPath": "\/img\/stock2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/stock3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.66951e+06,
+		"inputAbbreviatedPath": "\/img\/stock3.jpg",
+		"outputAbbreviatedPath": "\/img\/stock3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/stock4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.75024e+06,
+		"inputAbbreviatedPath": "\/img\/stock4.jpg",
+		"outputAbbreviatedPath": "\/img\/stock4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,

@@ -18,13 +18,12 @@ body
   flex-direction: column
 
   #name
-    margin-top: -0.3em
     margin-left: 0.3em
     font-size: 7vw
   #info
+    margin-left: 1em
     font-size: 1.4vw
     opacity: 0.45
-    margin-left: 1em
   @media only screen and (min-device-width : 375px) and (max-device-width : 667px) and (orientation : portrait)
     #name
       font-size: 13vw
@@ -68,10 +67,8 @@ body
       #menuItems
         margin: 0
 
-
-
 .content
-  background-image: url("../img/background1.png")
+  background-color: white
   background-size: cover
   background-repeat: no-repeat
   background-attachment: fixed
@@ -87,5 +84,19 @@ body
 
   .box
     height: 45%
-    background-color: white
-    width: 45%
+    width: 46%
+    box-shadow: 1px 1px 50px #4c4c4d
+  .box:nth-child(1)
+    background: url("../img/stock1.jpg") center
+    background-size: 100% auto
+  .box:nth-child(2)
+    background: url("../img/stock2.jpg") center
+    background-size: 100% auto
+  .box:nth-child(3)
+    background: url("../img/stock3.jpg") center
+    background-size: 100% auto
+    width: 56%
+  .box:nth-child(4)
+    background: url("../img/stock4.jpg") center
+    background-size: 100% auto
+    width: 36%
