@@ -1330,6 +1330,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/Screenshots\/Hero1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.31021e+06,
+		"inputAbbreviatedPath": "\/img\/Screenshots\/Hero1.png",
+		"outputAbbreviatedPath": "\/img\/Screenshots\/Hero1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Screenshots\/Home1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04143e+06,
+		"inputAbbreviatedPath": "\/img\/Screenshots\/Home1.png",
+		"outputAbbreviatedPath": "\/img\/Screenshots\/Home1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Screenshots\/Mockup1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42712e+06,
+		"inputAbbreviatedPath": "\/img\/Screenshots\/Mockup1.png",
+		"outputAbbreviatedPath": "\/img\/Screenshots\/Mockup1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/stock1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
